@@ -10,10 +10,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn$Assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn$Assign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn$Participants.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn$Participants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/RandomTurn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oi/algorithm/RandomTurn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/algorithm/RandomTurn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oi/algorithm/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/algorithm/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +44,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
-  <component name="RunManager" selected="Application.RandomTurn">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="RandomTurn" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oi.algorithm.RandomTurn" />
       <module name="SWEAlgorithm.main" />
@@ -111,42 +110,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582977726410" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1583054509947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583054509947" />
     <state x="560" y="271" width="415" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582974479194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="560" y="271" width="415" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582974479194" />
-    <state width="1493" height="275" key="GridCell.Tab.0.bottom" timestamp="1582979110755">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583053896850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582979110755" />
-    <state width="1493" height="275" key="GridCell.Tab.0.center" timestamp="1582979110755">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583053896850" />
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom" timestamp="1583054093471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582979110755" />
-    <state width="1493" height="275" key="GridCell.Tab.0.left" timestamp="1582979110754">
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583054093471" />
+    <state width="1493" height="275" key="GridCell.Tab.0.center" timestamp="1583054093471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582979110754" />
-    <state width="1493" height="275" key="GridCell.Tab.0.right" timestamp="1582979110755">
+    <state width="1493" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583054093471" />
+    <state width="1493" height="275" key="GridCell.Tab.0.left" timestamp="1583054093471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582979110755" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582978996796">
+    <state width="1493" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583054093471" />
+    <state width="1493" height="275" key="GridCell.Tab.0.right" timestamp="1583054093471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582978996796" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582978996796">
+    <state width="1493" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583054093471" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582979326566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582978996796" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582978996795">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582979326566" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582979326566">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582978996795" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582978996796">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582979326566" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582979326565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582978996796" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582979326565" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582979326566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582979326566" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1582977673963">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -155,5 +162,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582974495390" />
+    <state x="738" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583053495706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="738" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583053495706" />
   </component>
 </project>
