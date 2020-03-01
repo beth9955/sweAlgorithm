@@ -196,10 +196,106 @@ public class March5th {
      */
     public void no1230() throws Exception {
         try {
+            for (int i = 0; i < 10; i++) {
+
+                /** 문제읽기 **/
+                int inital = Integer.parseInt(br.readLine());
+                Stream<String> stream = Stream.of(br.readLine().split(" "));
+                int commands = Integer.parseInt(br.readLine());
+                List<String> raw = Arrays.asList(br.readLine().split(" "));
+
+                /** 명령어를 insert와 delete로 구분해서 저장 **/
+                List<List<String>> commandList = new ArrayList<>();
+                List<String> insert = new ArrayList<>();
+                List<String> delete = new ArrayList<>();
+                List<String> add = new ArrayList<>();
+
+                String separater = "I";
+                do {
+                    if (!insert.isEmpty()) {
+                        commandList.add(insert);
+                    } else if (!delete.isEmpty()) {
+                        commandList.add(delete);
+                    } else if (!add.isEmpty()){
+                        commandList.add(add);
+                    }
+
+                    for (String str : raw) {
+                        if (!Character.isDigit(str.charAt(0))) {
+                            if (!insert.isEmpty()) {
+                                commandList.add(insert);
+                            } else if (!delete.isEmpty()) {
+                                commandList.add(delete);
+                            } else if (!add.isEmpty()){
+                                commandList.add(add);
+                            }
+
+                            separater = str;
+                            insert = new ArrayList<>();
+                            delete = new ArrayList<>();
+                            add = new ArrayList<>();
+                        }
+
+                        if (separater.equals("I")) {
+                            insert.add(str);
+                        } else if (separater.equals("D")) {
+                            delete.add(str);
+                        } else if (separater.equals("A")) {
+                            add.add(str);
+                        }
+                    }
+                } while (commandList.size() <= commands);
+
+
+                /** 문제의 암호화 **/
+                List<String> result = stream.collect(Collectors.toList()); //Arrays.asList하면 addAll이 exception
+                for (int j = 0; j < commands; j++) {
+                    String operation = commandList.get(j).get(0);
+
+                    switch(operation) {
+                        case "I" : result = encryptInsert(result, commandList.get(j)); break;
+                        case "D" : result = encrypteDelete(result, commandList.get(j)); break;
+                        case "A" : result = encryptAdd(result, commandList.get(j)); break;
+                    }
+                }
+
+                /** 답 프린트 **/
+                System.out.printf("#%d", i + 1);
+                for (int n = 0; n < 10; n++) {
+                    System.out.print(" " + result.get(n));
+                }
+                System.out.println();
+
+            }
 
         } catch (Exception e) {
-
+            e.printStackTrace();
+            throw e;
         }
+    }
+
+    /**
+     * SW Expert Academy 1230번
+     *
+     * @throws Exception
+     */
+    public static List<String> encryptAdd(List<String> result, List<String> commands) throws Exception {
+        try {
+            int count = Integer.parseInt(commands.get(1));
+            int max = count + 2;
+
+            List<String> temp = new ArrayList<>();
+            for (int i = 2; i < max; i++) {
+                temp.add(commands.get(i));
+            }
+
+            result.addAll(temp);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw e;
+        }
+        return result;
     }
 
 

@@ -9,9 +9,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/march/March5th.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/oi/algorithm/march/March5th.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oi/algorithm/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/algorithm/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oi/algorithm/march/March5th.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oi/algorithm/march/March5th.java" afterDir="false" />
     </list>
@@ -123,22 +123,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583053896850" />
-    <state width="974" height="275" key="GridCell.Tab.0.bottom" timestamp="1583060263212">
+    <state width="989" height="216" key="GridCell.Tab.0.bottom" timestamp="1583066854590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583060263212" />
-    <state width="974" height="275" key="GridCell.Tab.0.center" timestamp="1583060263211">
+    <state width="989" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583066854590" />
+    <state width="989" height="216" key="GridCell.Tab.0.center" timestamp="1583066854590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="275" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583060263211" />
-    <state width="974" height="275" key="GridCell.Tab.0.left" timestamp="1583060263211">
+    <state width="989" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583066854590" />
+    <state width="989" height="216" key="GridCell.Tab.0.left" timestamp="1583066854590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="275" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583060263211" />
-    <state width="974" height="275" key="GridCell.Tab.0.right" timestamp="1583060263211">
+    <state width="989" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583066854590" />
+    <state width="989" height="216" key="GridCell.Tab.0.right" timestamp="1583066854590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="275" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583060263211" />
+    <state width="989" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583066854590" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1583059786663">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
