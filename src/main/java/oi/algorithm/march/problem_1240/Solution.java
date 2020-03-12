@@ -1,4 +1,4 @@
-package oi.algorithm.march.problem_1244;
+package oi.algorithm.march.problem_1240;
 
 import java.util.Scanner;
 import java.util.*;
