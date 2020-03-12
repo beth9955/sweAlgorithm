@@ -1,3 +1,5 @@
+package oi.algorithm.march.problem_1229;
+
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.util.*;
